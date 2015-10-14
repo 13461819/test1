@@ -5,7 +5,7 @@ using namespace std;
  
 int main(void)
 {
-	string name = "hello 13461819";
+	string name = "hello";
 	cout << name << endl;
 	return 0;
 }
